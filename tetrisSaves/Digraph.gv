@@ -1,0 +1,10 @@
+digraph {
+	node [fontsize=9 height=0.2 shape=circle width=0.2]
+	TOTAL_HOLES [fillcolor=lightgray shape=box style=filled]
+	COMPLETE_LINES [fillcolor=lightgray shape=box style=filled]
+	AGGREGATE_HEIGHT [fillcolor=lightgray shape=box style=filled]
+	BUMPINESS [fillcolor=lightgray shape=box style=filled]
+	SCORE [fillcolor=lightblue style=filled]
+	TOTAL_HOLES -> SCORE [color=red penwidth=0.2801357741508881 style=solid]
+	BUMPINESS -> SCORE [color=red penwidth=0.12273811411986386 style=solid]
+}

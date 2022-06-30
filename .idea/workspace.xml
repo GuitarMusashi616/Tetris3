@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a47e8d6-2eb4-4128-a9f7-bff492eda962" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZVePl0enSldEcLHRr6o4FUQzEv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tetris3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\AnacondaDONT\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a47e8d6-2eb4-4128-a9f7-bff492eda962" name="Default Changelist" comment="" />
+      <created>1584928666362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584928666362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587606703173">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="734" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1587606703173" />
+    <state x="1656" y="526" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584991165448">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1656" y="526" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1584991165448" />
+    <state x="999" y="346" key="#main" timestamp="1587605704628">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="999" y="346" key="#main/0.0.2560.1440@0.0.2560.1440" timestamp="1587605704628" />
+    <state width="660" height="466" key="DebuggerActiveHint" timestamp="1585073450811">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="660" height="466" key="DebuggerActiveHint/0.0.2560.1440@0.0.2560.1440" timestamp="1585073450811" />
+    <state x="1060" y="475" key="FileChooserDialogImpl" timestamp="1587593954168">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1060" y="475" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1587593954168" />
+    <state width="2539" height="472" key="GridCell.Tab.0.bottom" timestamp="1587608222230">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="472" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587608222230" />
+    <state width="2539" height="472" key="GridCell.Tab.0.center" timestamp="1587608222230">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="472" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587608222230" />
+    <state width="2539" height="472" key="GridCell.Tab.0.left" timestamp="1587608222230">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="472" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587608222230" />
+    <state width="2539" height="472" key="GridCell.Tab.0.right" timestamp="1587608222230">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="472" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587608222230" />
+    <state width="1256" height="349" key="GridCell.Tab.1.bottom" timestamp="1585091750757">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1256" height="349" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1585091750757" />
+    <state width="1256" height="349" key="GridCell.Tab.1.center" timestamp="1585091750756">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1256" height="349" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1585091750756" />
+    <state width="1256" height="349" key="GridCell.Tab.1.left" timestamp="1585091750756">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1256" height="349" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1585091750756" />
+    <state width="1256" height="349" key="GridCell.Tab.1.right" timestamp="1585091750756">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1256" height="349" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1585091750756" />
+    <state width="1288" height="728" key="XDebugger.FullValuePopup" timestamp="1585069502751">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1288" height="728" key="XDebugger.FullValuePopup/0.0.2560.1440@0.0.2560.1440" timestamp="1585069502751" />
+    <state x="976" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1587593424402">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="976" y="544" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1587593424402" />
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1585253118235">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1585253118235" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="spawn[ind]" language="Python" />
+        <watch expression="grid" language="Python" />
+        <watch expression="pieces[0]" language="Python" />
+        <watch expression="Option" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
